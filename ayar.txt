@@ -1,0 +1,12 @@
+## Burada yazacağınız koordinatlar mouse'un ilk tıklayacağı alan olacaktır.
+[ilk_tik]
+x1 = 1728
+y1 = 147
+
+[ikinci_tik]
+x2 = 1532
+y2 = 190
+
+[ayar]
+timer = 5
+count = 900
